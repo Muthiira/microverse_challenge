@@ -1,0 +1,11 @@
+.year{
+	background-color: lightgrey;
+}
+body{
+	margin:auto;
+	padding: auto;
+}
+image{
+	display: block;
+	align-items: center;
+}
